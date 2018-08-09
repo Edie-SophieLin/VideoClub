@@ -1,0 +1,11 @@
+C:\Users\Administrador\source\repos\SistemaVideos\SistemaVideos\bin\Debug\SistemaVideos.exe.config
+C:\Users\Administrador\source\repos\SistemaVideos\SistemaVideos\bin\Debug\SistemaVideos.exe
+C:\Users\Administrador\source\repos\SistemaVideos\SistemaVideos\bin\Debug\SistemaVideos.pdb
+C:\Users\Administrador\source\repos\SistemaVideos\SistemaVideos\obj\Debug\SistemaVideos.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\SistemaVideos\SistemaVideos\obj\Debug\SistemaVideos.Login.resources
+C:\Users\Administrador\source\repos\SistemaVideos\SistemaVideos\obj\Debug\SistemaVideos.Properties.Resources.resources
+C:\Users\Administrador\source\repos\SistemaVideos\SistemaVideos\obj\Debug\SistemaVideos.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\SistemaVideos\SistemaVideos\obj\Debug\SistemaVideos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\SistemaVideos\SistemaVideos\obj\Debug\SistemaVideos.exe
+C:\Users\Administrador\source\repos\SistemaVideos\SistemaVideos\obj\Debug\SistemaVideos.pdb
+C:\Users\Administrador\source\repos\SistemaVideos\SistemaVideos\obj\Debug\SistemaVideos.Menu.resources
